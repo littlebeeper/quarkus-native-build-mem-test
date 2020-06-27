@@ -1,3 +1,1 @@
-Quarkus guide: https://quarkus.io/guides/qute
-
-Reference guide: https://quarkus.io/guides/qute-reference
+Pom file is filled with dependencies in order to produce out of memory error during a native build in [Quarkus](https://quarkus.io/)
